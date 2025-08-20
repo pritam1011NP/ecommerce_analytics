@@ -1,0 +1,51 @@
+product_id,product_name,category,brand
+1001,Voltify Electronics Item 1,Electronics,Voltify
+1002,NovaCore Electronics Item 2,Electronics,NovaCore
+1003,Voltify Electronics Item 3,Electronics,Voltify
+1004,ZenTech Electronics Item 4,Electronics,ZenTech
+1005,Voltify Electronics Item 5,Electronics,Voltify
+1006,ZenTech Electronics Item 6,Electronics,ZenTech
+1007,ZenTech Electronics Item 7,Electronics,ZenTech
+1008,EchoWave Electronics Item 8,Electronics,EchoWave
+1009,Voltify Electronics Item 9,Electronics,Voltify
+1010,NovaCore Electronics Item 10,Electronics,NovaCore
+1011,ChefMate Home & Kitchen Item 1,Home & Kitchen,ChefMate
+1012,ChefMate Home & Kitchen Item 2,Home & Kitchen,ChefMate
+1013,CasaPro Home & Kitchen Item 3,Home & Kitchen,CasaPro
+1014,CasaPro Home & Kitchen Item 4,Home & Kitchen,CasaPro
+1015,ChefMate Home & Kitchen Item 5,Home & Kitchen,ChefMate
+1016,CasaPro Home & Kitchen Item 6,Home & Kitchen,CasaPro
+1017,CasaPro Home & Kitchen Item 7,Home & Kitchen,CasaPro
+1018,CasaPro Home & Kitchen Item 8,Home & Kitchen,CasaPro
+1019,ChefMate Home & Kitchen Item 9,Home & Kitchen,ChefMate
+1020,CasaPro Home & Kitchen Item 10,Home & Kitchen,CasaPro
+1021,UrbanWear Fashion Item 1,Fashion,UrbanWear
+1022,UrbanWear Fashion Item 2,Fashion,UrbanWear
+1023,ModaLane Fashion Item 3,Fashion,ModaLane
+1024,ModaLane Fashion Item 4,Fashion,ModaLane
+1025,ModaLane Fashion Item 5,Fashion,ModaLane
+1026,UrbanWear Fashion Item 6,Fashion,UrbanWear
+1027,ModaLane Fashion Item 7,Fashion,ModaLane
+1028,StyleX Fashion Item 8,Fashion,StyleX
+1029,ModaLane Fashion Item 9,Fashion,ModaLane
+1030,UrbanWear Fashion Item 10,Fashion,UrbanWear
+1031,Athletiq Sports Item 1,Sports,Athletiq
+1032,RunMax Sports Item 2,Sports,RunMax
+1033,RunMax Sports Item 3,Sports,RunMax
+1034,Athletiq Sports Item 4,Sports,Athletiq
+1035,Athletiq Sports Item 5,Sports,Athletiq
+1036,Athletiq Sports Item 6,Sports,Athletiq
+1037,FitPro Sports Item 7,Sports,FitPro
+1038,FitPro Sports Item 8,Sports,FitPro
+1039,Athletiq Sports Item 9,Sports,Athletiq
+1040,RunMax Sports Item 10,Sports,RunMax
+1041,PureSkin Beauty Item 1,Beauty,PureSkin
+1042,GlowUp Beauty Item 2,Beauty,GlowUp
+1043,AuraCare Beauty Item 3,Beauty,AuraCare
+1044,AuraCare Beauty Item 4,Beauty,AuraCare
+1045,GlowUp Beauty Item 5,Beauty,GlowUp
+1046,PureSkin Beauty Item 6,Beauty,PureSkin
+1047,PureSkin Beauty Item 7,Beauty,PureSkin
+1048,GlowUp Beauty Item 8,Beauty,GlowUp
+1049,GlowUp Beauty Item 9,Beauty,GlowUp
+1050,PureSkin Beauty Item 10,Beauty,PureSkin
